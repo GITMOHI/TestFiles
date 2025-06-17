@@ -1,2 +1,2 @@
-## Run command : 
-   npx playwright test cumberland.spec.js --headed
+# Run tests with browser visible
+npx playwright test cumberland.spec.js --headed
